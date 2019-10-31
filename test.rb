@@ -9,4 +9,4 @@ spice_rack = [
             ]
             
 #puts spice_rack
-p spice_rack[2]
+p spice_rack[2][1]
