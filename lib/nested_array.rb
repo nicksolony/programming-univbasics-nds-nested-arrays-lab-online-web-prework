@@ -53,7 +53,7 @@ def matrix_update(matrix, row, column, new_value)
     ENNET_HOUSE,
     ENFIELD_TENNIS_ACADEMY
     ]
-  matrix[row][column] = new_value
+  matrix [row][column] = new_value
   
   return matrix
   
