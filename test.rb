@@ -8,5 +8,8 @@ spice_rack = [
                 shelf_3
             ]
             
-#puts spice_rack
-p spice_rack[2][1]
+
+
+p spice_rack[1][1]
+spice_rack [1][1]="Cumin"
+p spice_rack[1][1]
