@@ -8,4 +8,4 @@ spice_rack = [
                 shelf_3
             ]
             
-puts spice_rack
+#puts spice_rack
